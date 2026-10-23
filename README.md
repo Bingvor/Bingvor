@@ -1,4 +1,6 @@
-# 👋 Hi, I'm an Embedded Developer
+# 👋 Hi, I'm Bingvor
+
+I'm a graduate student at **East China University of Science and Technology (ECUST)**.
 
 I focus on embedded software and hardware development, working with MCUs, LVGL, RTOS, FPGAs, and embedded Linux.
 
